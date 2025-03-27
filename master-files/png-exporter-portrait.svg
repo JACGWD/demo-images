@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2048 3072">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-size: 502px;
+      }
+
+      .st0, .st1 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st1 {
+        font-size: 294px;
+      }
+
+      .st2 {
+        fill: #d78f8d;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 14.7px;
+      }
+    </style>
+  </defs>
+  <rect class="st2" x="-512" y="512" width="3072" height="2048" transform="translate(2560 512) rotate(90)"/>
+  <text class="st0" transform="translate(480.1 1208.1)"><tspan x="0" y="0">PNG</tspan></text>
+  <text class="st1" transform="translate(593.9 1676.3)"><tspan x="0" y="0">240px</tspan></text>
+</svg>
